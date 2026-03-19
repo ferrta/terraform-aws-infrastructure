@@ -42,7 +42,7 @@ terraform destroy  # Clean up when done
 - AWS (EC2, Security Groups, IAM)
 - Git/GitHub
 
-  ### EC2 with Nginx Web Server
+ ### EC2 with Nginx Web Server
 **Location:** `ec2-with-nginx/`
 
 Automated web server deployment with nginx pre-installed and configured.
@@ -78,7 +78,5 @@ terraform destroy  # Clean up when done
 - Resolved DNS resolution issues in user_data
 - Debugged package installation failures
 - Configured automated nginx deployment
-
----
 
 *Built while learning DevOps and cloud automation practices.*
